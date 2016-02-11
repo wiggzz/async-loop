@@ -4,7 +4,9 @@ Adds asynchronous version of javascript `loop` functionality to [caolan/async](h
 
 # Installation
 
+```
 npm install wiggzz/async-loop
+```
 
 # Usage
 
