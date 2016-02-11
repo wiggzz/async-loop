@@ -2,7 +2,7 @@
   "name": "async-loop",
   "version": "1.0.0",
   "description": "Adds async loop ability to async package",
-  "main": "asyncLoop.js",
+  "main": "async-loop.js",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha"
   },
