@@ -1,7 +1,8 @@
 {
-  "name": "async-loop",
+  "name": "asynchronous-loop",
   "version": "1.0.1",
   "description": "Adds async loop ability to async package",
+  "repository": "wiggzz/async-loop",
   "main": "./src/async-loop.js",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha"
